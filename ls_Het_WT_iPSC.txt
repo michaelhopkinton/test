@@ -1,0 +1,16 @@
+-rw-rw-r-- 1 isf1 yshi  88347 Dec 20 03:56 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr11.122929407.G.var.1519.bam
+-rw-rw-r-- 1 isf1 yshi  98266 Dec 20 03:56 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr11.122929407.T.ref.1678.bam
+-rw-rw-r-- 1 isf1 yshi  40501 Dec 20 05:03 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr12.57039631.A.var.677.bam
+-rw-rw-r-- 1 isf1 yshi  39039 Dec 20 05:03 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr12.57039631.C.ref.642.bam
+-rw-rw-r-- 1 isf1 yshi 195204 Dec 20 01:11 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr1.6253061.A.ref.3711.bam
+-rw-rw-r-- 1 isf1 yshi   3168 Dec 20 01:11 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr1.6253061.G.var.36.bam
+-rw-rw-r-- 1 isf1 yshi 193511 Dec 20 09:38 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr19.55897995.A.ref.3332.bam
+-rw-rw-r-- 1 isf1 yshi   1515 Dec 20 09:38 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr19.55897995.G.var.10.bam
+-rw-rw-r-- 1 isf1 yshi  57921 Dec 20 06:49 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr19.580665.C.var.939.bam
+-rw-rw-r-- 1 isf1 yshi  63803 Dec 20 06:49 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr19.580665.T.ref.1037.bam
+-rw-rw-r-- 1 isf1 yshi 142455 Dec 20 14:40 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr21.20230087.A.ref.2690.bam
+-rw-rw-r-- 1 isf1 yshi 151735 Dec 20 14:40 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr21.20230087.G.var.2981.bam
+-rw-rw-r-- 1 isf1 yshi 115207 Dec 20 17:57 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr6.44218120.A.ref.1952.bam
+-rw-rw-r-- 1 isf1 yshi 105599 Dec 20 17:57 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chr6.44218120.G.var.1818.bam
+-rw-rw-r-- 1 isf1 yshi 153668 Dec 20 22:31 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chrM.2619.A.ref.2620.bam
+-rw-rw-r-- 1 isf1 yshi 152509 Dec 20 22:31 Het_WT_iPSC.bam_WT_iPSC.bam.vcf/chrM.2619.T.var.2562.bam

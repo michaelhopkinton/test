@@ -1,0 +1,3 @@
+lrwxrwxrwx 1 isf1 yshi  45 Dec 10 16:15 methfile/chr10.100911844.A.ref.26.bam.meth -> ../../chr10/chr10.100911844.A.ref.26.bam.meth
+lrwxrwxrwx 1 isf1 yshi  45 Dec 10 16:15 methfile/chr10.101264706.T.ref.41.bam.meth -> ../../chr10/chr10.101264706.T.ref.41.bam.meth
+lrwxrwxrwx 1 isf1 yshi  45 Dec 10 16:15 methfile/chr10.101286848.A.ref.25.bam.meth -> ../../chr10/chr10.101286848.A.ref.25.bam.meth

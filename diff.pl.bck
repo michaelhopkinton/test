@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+  use warnings;
+  use Carp;
+  use strict;
+  
+  open my $f1, '<', 'a.txt' or die("Unable to read src file file\n");
+  
+  close $f1;
+
+  foreach my $ref_region ( @ref_lists ) {
+    print "List $list_number : @{ $ref_region }\n";
+    $list_number++;
+  }
